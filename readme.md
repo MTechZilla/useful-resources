@@ -1,4 +1,4 @@
-# Useful Scripts
+# Useful Resources
 
 This is the internal repository consisting of useful scripts that are commonly in MTechZilla.
 
