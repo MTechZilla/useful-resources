@@ -1,6 +1,6 @@
 # Useful Resources
 
-This is the internal repository consisting of useful scripts that are commonly in MTechZilla.
+This repository consist of useful resources that are commonly used in [MTechZilla](https://mtechzilla.com).
 
 ## Contribute
 Create the PR to add new guides, docs, CI/CD flow files etc.
